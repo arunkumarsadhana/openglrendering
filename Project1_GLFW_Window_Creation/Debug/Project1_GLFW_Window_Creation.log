@@ -1,0 +1,15 @@
+﻿Build started 4/11/2018 4:40:13 PM.
+     1>Project "E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Project1_GLFW_Window_Creation\Project1_GLFW_Window_Creation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\Opengl ebooks\softwares\opengl-wrappers\glfw-3.1.2.bin.WIN32\glfw-3.1.2.bin.WIN32\include" /I"E:\Opengl ebooks\softwares\opengl-wrappers\glew-1.12.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\box2d\sfml\box2d_students\project1_glfw_window_creation\project1_glfw_window_creation\display.h(60): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\box2d\sfml\box2d_students\project1_glfw_window_creation\project1_glfw_window_creation\display.h(79): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Debug\Project1_GLFW_Window_Creation.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Opengl ebooks\softwares\opengl-wrappers\glfw-3.1.2.bin.WIN32\glfw-3.1.2.bin.WIN32\lib-vc2012" /LIBPATH:"E:\Opengl ebooks\softwares\opengl-wrappers\glew-1.12.0\lib\Release\Win32" opengl32.lib glew32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Debug\Project1_GLFW_Window_Creation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Debug\Project1_GLFW_Window_Creation.lib" /MACHINE:X86 Debug\Source.obj
+         Project1_GLFW_Window_Creation.vcxproj -> E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Debug\Project1_GLFW_Window_Creation.exe
+     1>Done Building Project "E:\Box2d\SFML\Box2D_Students\Project1_GLFW_Window_Creation\Project1_GLFW_Window_Creation\Project1_GLFW_Window_Creation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.05
